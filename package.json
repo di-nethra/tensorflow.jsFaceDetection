@@ -1,0 +1,14 @@
+{
+  "name": "tensorflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "faceDetection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "din/threx",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
